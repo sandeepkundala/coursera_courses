@@ -1,0 +1,57 @@
+# 📘 OpenAI Sora
+
+## ⭐ Overview
+OpenAI’s **Sora** is a multimodal generative model that creates videos from **text prompts** or **image inputs**.  
+It supports applications such as:
+- Storytelling for VR/AR  
+- Content creation and video editing  
+- Synthetic data generation for simulations  
+
+Sora responds well to **cinematic language**, including scene context, visual details, lighting, and motion.
+
+---
+
+# 🎬 Text-to-Video Workflow with Sora
+
+## 1. Write a Detailed Prompt
+Include:
+- Environment  
+- Lighting  
+- Camera angles  
+- Motion  
+- Scene context  
+
+## 2. Submit Prompt to Sora
+- Sora processes the text using multimodal reasoning.
+- Generates a coherent video clip based on the description.
+
+## 3. Receive Generated Video
+- Output is a short video clip aligned with the prompt’s details.
+
+---
+
+# 🖥️ Using the Sora Interface
+
+## Access
+- Log in at **sora.openai.com**
+
+## Composer Features
+- Enter text prompts  
+- Adjust:
+  - Aspect ratio  
+  - Resolution  
+  - Duration  
+
+## Editing Tools
+- **Preview** generated videos  
+- **Remix**: refine videos using natural language edits  
+- **Blend**: merge clips together  
+- **Loop**: create seamless looping animations  
+- **Share / Download** final outputs  
+
+---
+
+# ⭐ Summary
+Sora enables high‑quality video generation from text or images using cinematic prompting.  
+Its interface supports customization, editing, and refinement, making it useful for creators, designers, and developers working with multimodal generative video.
+

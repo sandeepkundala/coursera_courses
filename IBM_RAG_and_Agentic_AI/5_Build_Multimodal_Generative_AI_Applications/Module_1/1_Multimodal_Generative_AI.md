@@ -1,4 +1,4 @@
-# 📘 Multimodal Generative AI — Cheat Sheet
+# 📘 Multimodal Generative AI
 
 ## ⭐ What Multimodal Generative AI Is
 - AI that understands and generates content across **multiple data types**: text, images, audio, video.
